@@ -13,7 +13,7 @@ Este repositorio contiene los certificados de los cursos que he completado. Los 
 [![Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png](https://i.postimg.cc/Pq8K4x4h/Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png)](https://postimg.cc/gwmvcGQB)
 
 ### Proyectos con Python:
- [**Productly con Django**]([enlace_al_certificado_proyectos_python.pdf](https://github.com/Rodrigo1222/productly))
+ [**Productly con Django**](https://github.com/Rodrigo1222/productly)
 
 ## Java
 
