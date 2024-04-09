@@ -9,7 +9,9 @@ Este repositorio contiene los certificados de los cursos que he completado. Los 
 - **Curso de Introducción a Python PIlARES:**
 [![Constancia-EDC-PYTHON-1.png](https://i.postimg.cc/nVqWYsPk/Constancia-EDC-PYTHON-1.png)](https://postimg.cc/6T5zBQw2)
   [Certificado]([![Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png](https://i.postimg.cc/Pq8K4x4h/Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png)](https://postimg.cc/gwmvcGQB))
-- **Curso Avanzado de Python:** [Certificado](enlace_al_certificado_python_avanzado.pdf)
+- **Curso Avanzado de Python:**
+[![Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png](https://i.postimg.cc/Pq8K4x4h/Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png)](https://postimg.cc/gwmvcGQB)
+- [Certificado](enlace_al_certificado_python_avanzado.pdf)
 - **Proyectos con Python:** [Certificado](enlace_al_certificado_proyectos_python.pdf)
 
 ## Java
