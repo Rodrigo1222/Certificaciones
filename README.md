@@ -6,19 +6,22 @@ Este repositorio contiene los certificados de los cursos que he completado. Los 
 
 ### Cursos Completados
 
-- **Curso de Introducción a Python PIlARES:**
+- **Curso de Introducción, Python PIlARES:**
 [![Constancia-EDC-PYTHON-1.png](https://i.postimg.cc/nVqWYsPk/Constancia-EDC-PYTHON-1.png)](https://postimg.cc/6T5zBQw2)
-  [Certificado]([![Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png](https://i.postimg.cc/Pq8K4x4h/Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png)](https://postimg.cc/gwmvcGQB))
-- **Curso Avanzado de Python:**
+ 
+- **Curso Avanzado de Python, Ultimate Python:**
 [![Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png](https://i.postimg.cc/Pq8K4x4h/Aldo-Rodrigo-Mondrag-n-Soto-2024-04-04.png)](https://postimg.cc/gwmvcGQB)
-- [Certificado](enlace_al_certificado_python_avanzado.pdf)
-- **Proyectos con Python:** [Certificado](enlace_al_certificado_proyectos_python.pdf)
+
+### Proyectos con Python:
+ [**Productly con Django**]([enlace_al_certificado_proyectos_python.pdf](https://github.com/Rodrigo1222/productly))
 
 ## Java
 
 ### Cursos Completados
 
-- **Curso de Fundamentos de Java:** [Certificado](enlace_al_certificado_java_fundamentos.pdf)
+- **Curso de Fundamentos de Java:
+
+- ** [Certificado](enlace_al_certificado_java_fundamentos.pdf)
 - **Curso de Desarrollo Web con Java:** [Certificado](enlace_al_certificado_java_web.pdf)
 - **Java Avanzado:** [Certificado](enlace_al_certificado_java_avanzado.pdf)
 
